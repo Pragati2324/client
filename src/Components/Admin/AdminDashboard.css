@@ -1,0 +1,32 @@
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .dashboard-section {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .dashboard-section h3 {
+    color: #333;
+  }
+  
+  .dashboard-links {
+    margin-top: 20px;
+  }
+  
+  .dashboard-links a {
+    display: block;
+    margin-bottom: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .dashboard-links a:hover {
+    text-decoration: underline;
+  }
+  
